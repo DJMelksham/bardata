@@ -1,3 +1,7 @@
+#https://api.bar-rts.com/replays?hasBots=false&endedNormally=true&date=2022-01-01&date=2023-01-31&limit=1
+#tempdir()
+#tempfile()
+
 #download new bardata
 
 library(httr)
